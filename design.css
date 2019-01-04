@@ -1,0 +1,46 @@
+.jumbotron {
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: #253965;
+    text-align: center;
+ }
+ 
+ h1 {
+    color: white;
+ }
+ 
+ .display-4 {
+    font-weight: 600;
+ }
+ .new { 
+   border-radius: 5px;
+   border: 2px solid rgb(194, 193, 193);
+   padding: 0%;
+ }
+ .pad{ 
+    padding: 2%;
+ }
+ 
+#parameter {
+   background-color: rgb(224, 224, 224);
+   padding: 10px;
+   border-bottom:  2px solid rgb(194, 193, 193);
+ }
+ 
+ #searchForm {
+   padding: 10px;
+ }
+ 
+ .form-group {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1%;
+ }
+ 
+ #searchButton {
+    margin-left: 2%;
+ }
+ 
+ button {
+    margin-bottom: 1%;
+ }
